@@ -65,9 +65,10 @@
 * [关于认知](https://github.com/crisxuan/bestJavaer#%E5%85%B3%E4%BA%8E%E8%AE%A4%E7%9F%A5)
 * [电子书籍](https://github.com/crisxuan/bestJavaer#%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D)
 * [我的PDF](https://github.com/crisxuan/bestJavaer#%E6%88%91%E7%9A%84-pdf)
-* [读者面试系列](https://github.com/crisxuan/bestJavaer#%E8%AF%BB%E8%80%85%E9%9D%A2%E8%AF%95%E7%B3%BB%E5%88%97)
+* [读者系列](https://github.com/crisxuan/bestJavaer#%E8%AF%BB%E8%80%85%E9%9D%A2%E8%AF%95%E7%B3%BB%E5%88%97)
 * [面试题系列](https://github.com/crisxuan/bestJavaer#%E9%9D%A2%E8%AF%95%E9%A2%98%E7%B3%BB%E5%88%97)
 * [每日一题计划](https://github.com/crisxuan/bestJavaer#%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%98%E8%AE%A1%E5%88%92)
+* 书籍观后感
 
 也包括一些常见的面试题。
 
@@ -115,7 +116,9 @@
 * [深入理解 static 关键字](https://github.com/crisxuan/bestJavaer/blob/master/java-basic/java-static.md)
 * [深入理解 Java 变量](https://github.com/crisxuan/bestJavaer/blob/master/java-basic/java-varaibles.md)
 * [深入理解 final、finally、finalize](https://github.com/crisxuan/bestJavaer/blob/master/java-basic/java-final.md)
+* [浅拷贝和深拷贝](https://github.com/crisxuan/bestJavaer/blob/master/java-basic/java-shallowcloneanddeepclone.md)
 * [关于四种引用类型](https://github.com/crisxuan/bestJavaer/blob/master/java-basic/java-references.md)
+* [Java 开发最容易忽视的 10 个 Bug](https://github.com/crisxuan/bestJavaer/blob/master/java-basic/java-ignoretenmistakes.md)
 * [Java 浅拷贝和深拷贝](https://github.com/crisxuan/bestJavaer/blob/master/java-basic/java-clone.md)
 * [Java 创建对象的五种方式](https://github.com/crisxuan/bestJavaer/blob/master/java-basic/java-createobject.md)
 * [Exception 和 Error 的区别](https://github.com/crisxuan/bestJavaer/blob/master/java-basic/java-exceptionanderror.md)
@@ -143,6 +146,7 @@
 ### 并发源码分析
 
 * [ReentrantLock 源码分析](https://github.com/crisxuan/bestJavaer/blob/master/java-concurrent/java-reentrantlock.md)
+* [LongAddr 用法和源码分析](https://github.com/crisxuan/bestJavaer/blob/master/java-concurrent/java-longaddr.md)
 * [JSR - 133 都有哪些内容](https://github.com/crisxuan/bestJavaer/blob/master/java-concurrent/java-jsr133.md)
 * [我花了 35 张图就为你让你了解 AQS](https://github.com/crisxuan/bestJavaer/blob/master/java-concurrent/java-aqs.md)
 * [AtomicInteger 的用法和实现原理](https://github.com/crisxuan/bestJavaer/blob/master/java-concurrent/java-atomicInteger.md)
@@ -163,7 +167,7 @@
 * [程序员需要了解的硬核知识之压缩算法](https://github.com/crisxuan/bestJavaer/blob/master/computer-basic/computer-compression.md)
 * [程序员需要了解的硬核知识之操作系统和应用](https://github.com/crisxuan/bestJavaer/blob/master/computer-basic/computer-osandapp.md)
 * [程序员需要了解的硬核知识之操作系统入门](https://github.com/crisxuan/bestJavaer/blob/master/computer-basic/computer-os.md)
-* [程序员需要了解的硬核知识之控制硬件](https://github.com/crisxuan/bestJavaer/blob/master/computer-basic/computer-disk.md)
+* [程序员需要了解的硬核知识之控制硬件](https://github.com/crisxuan/bestJavaer/blob/master/computer-basic/computer-hardware.md)
 
 ## 深入理解计算机系统
 
@@ -177,14 +181,15 @@
 * [全面了解 HTTPS](https://github.com/crisxuan/bestJavaer/blob/master/http/http-https.md)
 * [全面了解 Cookies、Session 和 Token](https://github.com/crisxuan/bestJavaer/blob/master/http/http-cookesessiontoken.md)
 * [图解 HTTP 连接管理](https://github.com/crisxuan/bestJavaer/blob/master/http/http-manageconnection.md)
+* [HTTP 2.0]()
 
 ## Linux 系列
 
-* [Linux 开篇！！！](https://github.com/crisxuan/bestJavaer/blob/master/linux/linux-first.md)
-* [Linux 进程和线程](https://github.com/crisxuan/bestJavaer/blob/master/linux/linux-processandthread.md)
-* [Linux 内存管理](https://github.com/crisxuan/bestJavaer/blob/master/linux/linux-memroy-management.md)
-* [Linux IO管理](https://github.com/crisxuan/bestJavaer/blob/master/linux/linux-io.md)
-* [Linux 文件系统](https://github.com/crisxuan/bestJavaer/blob/master/linux/linux-file-system.md)
+* [Linux 操作系统之开篇！！！](https://github.com/crisxuan/bestJavaer/blob/master/linux/linux-first.md)
+* [Linux 操作系统之进程和线程](https://github.com/crisxuan/bestJavaer/blob/master/linux/linux-processandthread.md)
+* [Linux 操作系统之内存管理](https://github.com/crisxuan/bestJavaer/blob/master/linux/linux-memroy-management.md)
+* [Linux 操作系统之IO管理](https://github.com/crisxuan/bestJavaer/blob/master/linux/linux-io.md)
+* [Linux 操作系统之文件系统](https://github.com/crisxuan/bestJavaer/blob/master/linux/linux-file-system.md)
 
 
 ## 设计模式系列
@@ -194,17 +199,18 @@
 
 ## JVM 系列
 
-TODO
+* [JVM 面试题总结](https://github.com/crisxuan/bestJavaer/blob/master/jvm/jvm-interviewanswer.md)
 
 ## 汇编语言
 
 * [从指令集的角度看汇编](https://github.com/crisxuan/bestJavaer/blob/master/assembly/assembly01.md)
-
 * [寄存器入门第一篇](https://github.com/crisxuan/bestJavaer/blob/master/assembly/assembly02.md)
+* [汇编 Debug 实战](https://github.com/crisxuan/bestJavaer/blob/master/assembly/assembly03.md)
 
 ## C 语言
 
 * [C 语言基础入门](https://github.com/crisxuan/bestJavaer/blob/master/cprograming/c-basic.md)
+* [C 语言数据](https://github.com/crisxuan/bestJavaer/blob/master/cprograming/c-data.md)
 
 ## MyBatis
 
@@ -265,13 +271,14 @@ TODO
 
 * [ZooKeeper 基础入门](https://github.com/crisxuan/bestJavaer/blob/master/zookeeper/zookeeper-basic.md)
 
-## 读者面试系列
+## 读者系列
 
 * [今年面试这么难，到底如何进入大厂？](https://github.com/crisxuan/bestJavaer/blob/master/interview/interview-jingdong.md)
 * [外包面试之旅](https://github.com/crisxuan/bestJavaer/blob/master/interview/interview-zhongruan.md)
 * [京东面试之旅](https://github.com/crisxuan/bestJavaer/blob/master/interview/interview-jingdong-social.md)
 * [百度面试之旅](https://github.com/crisxuan/bestJavaer/blob/master/interview/interview-baidu.md)
 * [读者考研之旅](https://github.com/crisxuan/bestJavaer/blob/master/interview/interview-kaoyan.md)
+* [上海妹子的一天是怎样的](https://github.com/crisxuan/bestJavaer/blob/master/reader/thedayofshanghai.md)
 
 ## 面试题系列
 
@@ -339,6 +346,7 @@ TODO
 * [如何成为务实的程序员](https://github.com/crisxuan/bestJavaer/blob/master/aboutlife/good-programmer.md)
 * [写给 25 岁的自己](https://github.com/crisxuan/bestJavaer/blob/master/aboutlife/cxuan-25yearsold.md)
 * [面试官和面试者在同一个群里是怎样的体验](https://github.com/crisxuan/bestJavaer/blob/master/aboutlife/interviewer-story.md)
+* [程序员的水平能有多低？](https://github.com/crisxuan/bestJavaer/blob/master/aboutlife/cxuan-lowprogrammer.md)
 
 ## 程序员
 
@@ -347,6 +355,12 @@ TODO
 ## 每日一题计划
 
 * [2020 年每日一题](https://github.com/crisxuan/bestJavaer/blob/master/interview/2020-interview-everyday.md)
+
+## 书籍观后感
+
+* [如何评价《Java 并发编程艺术》这本书？](https://github.com/crisxuan/bestJavaer/blob/master/book-view/read-theArtOfJavaConcurrencyProgramming.md)
+
+
 
 ## 内推计划
 
